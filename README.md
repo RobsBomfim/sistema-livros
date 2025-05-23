@@ -1,2 +1,2 @@
 # sistema-livros
-Este projeto consiste em uma aplicação web simples para o gerenciamento de livros, desenvolvida com foco em práticas de integração entre frontend e backend.
+Este projeto é uma aplicação web simples para o gerenciamento de livros, integrando um backend em Flask com um banco de dados PostgreSQL e um frontend em HTML, CSS e JavaScript.
