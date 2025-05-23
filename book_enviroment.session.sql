@@ -1,0 +1,1 @@
+SELECT * FROM livros_teste;SELECT * FROM livros_teste;
